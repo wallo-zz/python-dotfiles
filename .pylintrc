@@ -1,2 +1,2 @@
 [MESSAGES CONTROL]
-disable = C0111
+disable = missing-docstring, wrong-import-order
