@@ -1,2 +1,2 @@
 [MESSAGES CONTROL]
-disable = missing-docstring, wrong-import-order
+disable = missing-docstring, wrong-import-order, line-too-long
